@@ -1,0 +1,25 @@
+body{
+  background-color: #f7eaf5;
+  text-align: center;
+}
+.heading{
+  font-family: 'Merriweather', serif;
+}
+
+.entry{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: medium;
+  font-weight: 200;
+  margin-top: 6rem;
+  margin-left: 2.5rem;
+  
+}
+.button{
+font-family: 'Courier New', Courier, monospace;
+font-size: xx-large;
+margin-top: 3rem;
+margin-left: 2.5rem;
+}
+.nav-item{
+  padding: 0 18px;
+}
